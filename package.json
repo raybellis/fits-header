@@ -1,0 +1,12 @@
+{
+  "name": "fits-header",
+  "version": "0.1.0",
+  "description": "library for processing FITS file headers",
+  "repository": "github/raybellis/fits-header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ray Bellis",
+  "license": "MPL-2.0"
+}
