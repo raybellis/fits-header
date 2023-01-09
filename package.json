@@ -1,9 +1,10 @@
 {
   "name": "fits-header",
+  "private": true,
   "version": "0.1.0",
   "description": "library for processing FITS file headers",
   "repository": "github/raybellis/fits-header",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
