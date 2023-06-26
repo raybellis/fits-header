@@ -9,5 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ray Bellis",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "bin": {
+    "fits-info": "./bin/fits-info.mjs"
+  }
 }
